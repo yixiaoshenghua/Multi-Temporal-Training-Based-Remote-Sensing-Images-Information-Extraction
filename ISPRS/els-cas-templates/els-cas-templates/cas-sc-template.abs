@@ -1,0 +1,18 @@
+Urban green space plays a crucial role in the construction of ecological city and
+  livable environment. The monitoring of urban greening information is of great
+  significance to urban management. Multi-temporal high-resolution remote sensing images
+  are important data sources for urban green cover information updating, while effectively
+  identifying vegetation information from these images is one of the key part which often faces
+  many challenges. Firstly, to achieve good results by supervised learning, large scale
+  training samples are usually needed. However, the labeling of training samples on remote
+  sensing images is time-consuming and laborious. Secondly, because of the data distribution
+  shifting from time to time, the training samples under a single time-phase can not be directly
+  applied to other phases, which results in a great waste of labeled samples. It is necessary
+  to construct the framework of information extraction of vegetation and other kinds of ground
+  objects in multi-temporal images in order to deal with such problems. Based on semi-supervised
+  learning and high resolution remote sensing images under multiple time phases, an algorithm
+  for ground object classification is proposed. This method simultaneously solve the dataset
+  shift and ill-posed problem of multi-temporal remote sensing image classification, and
+  effectively improves the accuracy of small sample training on each image while ensuring the
+  consistency of classification results. It brings a new mode to the information extraction of
+  multi-temporal remote sensing images.

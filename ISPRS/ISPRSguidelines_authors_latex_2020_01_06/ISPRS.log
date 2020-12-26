@@ -1,0 +1,638 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.16)  10 DEC 2020 22:29
+entering extended mode
+**g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/ISPRS.tex
+(g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/ISPRS.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03> (g:/project\ISPRS\ISPRSguidelines_authors_latex_2020_01_06\isprs.cls
+Document Class: isprs 2000/01/15 Class for ISPRS Publications
+(F:\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (F:\MiKTeX\tex/latex/graphics\epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+ (F:\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (F:\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (F:\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (F:\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (F:\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (F:\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen138
+\Gin@req@width=\dimen139
+)
+\epsfxsize=\dimen140
+\epsfysize=\dimen141
+) (F:\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(F:\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen142
+) (F:\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box47
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen143
+\ttl@minus=\dimen144
+\ttl@toksa=\toks16
+\titlewidth=\dimen145
+\titlewidthlast=\dimen146
+\titlewidthfirst=\dimen147
+)) (F:\MiKTeX\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip51
+\subfigcapskip=\skip52
+\subfigcaptopadj=\dimen148
+\subfigbottomskip=\skip53
+\subfigcapmargin=\dimen149
+\subfiglabelskip=\skip54
+\c@subfigure=\count183
+\c@lofdepth=\count184
+\c@subtable=\count185
+\c@lotdepth=\count186
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(F:\MiKTeX\tex/latex/subfigure\subfigure.cfg)
+\subfig@top=\skip55
+\subfig@bottom=\skip56
+) (F:\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (F:\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (F:\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (F:\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks17
+ (F:\MiKTeX\tex/latex/geometry\geometry.cfg)) (F:\MiKTeX\tex/latex/epstopdf-pkg\epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+ (F:\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (F:\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (F:\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (F:\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+ (F:\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (F:\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (F:\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (F:\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)) (F:\MiKTeX\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (F:\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count190
+\float@exts=\toks18
+\float@box=\box48
+\@float@everytoks=\toks19
+\@floatcapt=\box49
+) (F:\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks20
+\c@algorithm=\count191
+) (F:\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (F:\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (F:\MiKTeX\tex/latex/algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count192
+\c@ALC@line=\count193
+\c@ALC@rem=\count194
+\c@ALC@depth=\count195
+\ALC@tlm=\skip57
+\algorithmicindent=\skip58
+) (F:\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (F:\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen158
+\captionmargin@=\dimen159
+\captionwidth=\dimen160
+\caption@tempdima=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip 4\p@ \setbox \@tempboxa \hbox {#1: #2}\ifdim \wd \@tempboxa >\hsize #1: #2\par \else \hbox to\hsize {\hfil \box \@tempboxa \hfil }\fi  on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count196
+\c@continuedfloat=\count197
+Package caption Info: float package is loaded.
+Package caption Info: subfigure package is loaded.
+) (F:\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/27 3.51 The Babel package
+ (F:\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/27 3.51 Babel common definitions
+\babel@savecnt=\count198
+\U@D=\dimen165
+\l@babelnohyphens=\language79
+ (F:\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count199
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(F:\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (F:\MiKTeX\tex/latex/babel-english\british.ldf
+Language: british 2017/06/06 v3.3r English support from the babel system
+ (F:\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
+))) (F:\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks21
+\footnotemargin=\dimen166
+\c@pp@next@reset=\count266
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
+) (F:\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (F:\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (F:\MiKTeX\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen167
+\ar@mcellbox=\box50
+\extrarowheight=\dimen168
+\NC@list=\toks22
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box51
+)
+\TX@col@width=\dimen169
+\TX@old@table=\dimen170
+\TX@old@col=\dimen171
+\TX@target=\dimen172
+\TX@delta=\dimen173
+\TX@cols=\count267
+\TX@ftn=\toks23
+) (F:\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip61
+\multirow@cntb=\count268
+\multirow@dima=\skip62
+\bigstrutjot=\dimen174
+) (F:\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip63
+\LTright=\skip64
+\LTpre=\skip65
+\LTpost=\skip66
+\LTchunksize=\count269
+\LTcapwidth=\dimen175
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@cols=\count270
+\LT@rows=\count271
+\c@LT@tables=\count272
+\c@LT@chunks=\count273
+\LT@p@ftn=\toks24
+) (F:\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen176
+\c@nlinenum=\count274
+\TeXr@lab=\toks25
+) (F:\MiKTeX\tex/latex/threeparttable\threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box56
+) (F:\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen177
+\lightrulewidth=\dimen178
+\cmidrulewidth=\dimen179
+\belowrulesep=\dimen180
+\belowbottomsep=\dimen181
+\aboverulesep=\dimen182
+\abovetopsep=\dimen183
+\cmidrulesep=\dimen184
+\cmidrulekern=\dimen185
+\defaultaddspace=\dimen186
+\@cmidla=\count275
+\@cmidlb=\count276
+\@aboverulesep=\dimen187
+\@belowrulesep=\dimen188
+\@thisruleclass=\count277
+\@lastruleclass=\count278
+\@thisrulewidth=\dimen189
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 52.
+ (F:\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (F:\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count279
+\l__pdf_internal_box=\box57
+) (g:/project\ISPRS\ISPRSguidelines_authors_latex_2020_01_06\ISPRS.aux
+
+LaTeX Warning: Label `fig:figure_placement' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure_placement' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure_placement' multiply defined.
+
+
+LaTeX Warning: Label `fig:studyArea' multiply defined.
+
+
+LaTeX Warning: Label `fig:studyArea' multiply defined.
+
+
+LaTeX Warning: Label `fig:studyArea' multiply defined.
+
+
+LaTeX Warning: Label `fig:studyArea' multiply defined.
+
+)
+\openout1 = `ISPRS.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+ (F:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count280
+\scratchdimen=\dimen190
+\scratchbox=\box58
+\nofMPsegments=\count281
+\nofMParguments=\count282
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count283
+\MPscratchDim=\dimen191
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
+\everyMPtoPDFconversion=\toks27
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=702.78308pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-41.59085pt
+* \headheight=12.0pt
+* \headsep=28.45274pt
+* \topskip=9.0pt
+* \footskip=34.1433pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=17.07182pt
+* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: longtable package is loaded.
+(F:\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Calculating math sizes for size <9.25> on input line 98.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.47496> not available
+(Font)              size <6> substituted on input line 98.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.47496> not available
+(Font)              size <6> substituted on input line 98.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.47496> not available
+(Font)              size <6> substituted on input line 98.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.25> on input line 98.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6.47496> on input line 98.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.625> on input line 98.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 98.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 98.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 98.
+[1{C:/Users/Administrator/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+]
+<figures/images/trainClassifiers1.jpg, id=8, 644.6484pt x 509.2626pt>
+File: figures/images/trainClassifiers1.jpg Graphic file (type jpg)
+<use figures/images/trainClassifiers1.jpg>
+Package pdftex.def Info: figures/images/trainClassifiers1.jpg  used on input line 152.
+(pdftex.def)             Requested size: 233.31252pt x 184.3135pt.
+ [2 <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/trainClassifiers1.jpg>]
+<figures/images/temporal_difference1.jpg, id=12, 543.9522pt x 509.7444pt>
+File: figures/images/temporal_difference1.jpg Graphic file (type jpg)
+<use figures/images/temporal_difference1.jpg>
+Package pdftex.def Info: figures/images/temporal_difference1.jpg  used on input line 167.
+(pdftex.def)             Requested size: 233.31252pt x 218.64134pt.
+<figures/images/jointConf.jpg, id=13, 405.1938pt x 167.1846pt>
+File: figures/images/jointConf.jpg Graphic file (type jpg)
+<use figures/images/jointConf.jpg>
+Package pdftex.def Info: figures/images/jointConf.jpg  used on input line 176.
+(pdftex.def)             Requested size: 233.31252pt x 96.26558pt.
+<figures/images/unchangedMap.jpg, id=14, 711.6186pt x 442.2924pt>
+File: figures/images/unchangedMap.jpg Graphic file (type jpg)
+<use figures/images/unchangedMap.jpg>
+Package pdftex.def Info: figures/images/unchangedMap.jpg  used on input line 194.
+(pdftex.def)             Requested size: 233.31252pt x 145.0121pt.
+ [3 <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/temporal_difference1.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/jointConf.jpg>]
+Underfull \hbox (badness 1721) in paragraph at lines 212--212
+[]\OT1/ptm/m/n/9.25 The set of la-belled samples for each phase, $\OML/cmm/m/it/9 D[] \OT1/cmr/m/n/9 =
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 227--227
+[] []\OT1/ptm/m/n/9.25 Calculate the up-dat-ing threshold of each class by
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 227--227
+\OT1/ptm/m/n/9.25 the con-fid-ence map, $\OML/cmm/m/it/9 th \OT1/cmr/m/n/9 = \OML/cmm/m/it/9  \OMS/cmsy/m/n/9  \OML/cmm/m/it/9 mean\OT1/cmr/m/n/9 (\OMS/cmsy/m/n/9 f\OML/cmm/m/it/9 p\OMS/cmsy/m/n/9 j\OML/cmm/m/it/9 p \OMS/cmsy/m/n/9 2
+ []
+
+<figures/images/studyArea.png, id=26, 1052.43187pt x 511.9125pt>
+File: figures/images/studyArea.png Graphic file (type png)
+<use figures/images/studyArea.png>
+Package pdftex.def Info: figures/images/studyArea.png  used on input line 246.
+(pdftex.def)             Requested size: 466.62503pt x 226.96846pt.
+[4 <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/unchangedMap.jpg>]
+Overfull \hbox (11.96916pt too wide) detected at line 297
+\OML/cmm/m/it/9 MSAVI \OT1/cmr/m/n/9 = 0\OML/cmm/m/it/9 :\OT1/cmr/m/n/9 5(2(\OML/cmm/m/it/9 nir \OT1/cmr/m/n/9 + 1) \OMS/cmsy/m/n/9   []\OT1/cmr/m/n/9 )
+ []
+
+<figures/images/corr.jpg, id=31, 794.97pt x 578.16pt>
+File: figures/images/corr.jpg Graphic file (type jpg)
+<use figures/images/corr.jpg>
+Package pdftex.def Info: figures/images/corr.jpg  used on input line 310.
+(pdftex.def)             Requested size: 233.31252pt x 169.68234pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/studyArea.png> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/corr.jpg>]
+Overfull \hbox (3.32314pt too wide) in paragraph at lines 380--389
+ [] 
+ []
+
+<figures/images/resultMap2.png, id=36, 606.01407pt x 637.63219pt>
+File: figures/images/resultMap2.png Graphic file (type png)
+<use figures/images/resultMap2.png>
+Package pdftex.def Info: figures/images/resultMap2.png  used on input line 401.
+(pdftex.def)             Requested size: 466.62503pt x 490.9783pt.
+<figures/images/update_loc.jpg, id=37, 855.94781pt x 727.21687pt>
+File: figures/images/update_loc.jpg Graphic file (type jpg)
+<use figures/images/update_loc.jpg>
+Package pdftex.def Info: figures/images/update_loc.jpg  used on input line 411.
+(pdftex.def)             Requested size: 466.62503pt x 396.44185pt.
+[6] [7 <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/resultMap2.png>]
+<figures/images/multi_self_veg_unlabel5_final_trend_mean.jpg, id=46, 578.16pt x 433.62pt>
+File: figures/images/multi_self_veg_unlabel5_final_trend_mean.jpg Graphic file (type jpg)
+<use figures/images/multi_self_veg_unlabel5_final_trend_mean.jpg>
+Package pdftex.def Info: figures/images/multi_self_veg_unlabel5_final_trend_mean.jpg  used on input line 462.
+(pdftex.def)             Requested size: 116.65625pt x 87.48997pt.
+<figures/images/multi_self_veg_unlabel5_final_trend_std.jpg, id=47, 578.16pt x 433.62pt>
+File: figures/images/multi_self_veg_unlabel5_final_trend_std.jpg Graphic file (type jpg)
+<use figures/images/multi_self_veg_unlabel5_final_trend_std.jpg>
+Package pdftex.def Info: figures/images/multi_self_veg_unlabel5_final_trend_std.jpg  used on input line 467.
+(pdftex.def)             Requested size: 116.65625pt x 87.48997pt.
+<figures/images/multi_self_veg_unlabel5_improved_trend_mean.jpg, id=48, 578.16pt x 433.62pt>
+File: figures/images/multi_self_veg_unlabel5_improved_trend_mean.jpg Graphic file (type jpg)
+<use figures/images/multi_self_veg_unlabel5_improved_trend_mean.jpg>
+Package pdftex.def Info: figures/images/multi_self_veg_unlabel5_improved_trend_mean.jpg  used on input line 472.
+(pdftex.def)             Requested size: 116.65625pt x 87.48997pt.
+<figures/images/multi_self_veg_unlabel5_improved_trend_std.jpg, id=49, 578.16pt x 433.62pt>
+File: figures/images/multi_self_veg_unlabel5_improved_trend_std.jpg Graphic file (type jpg)
+<use figures/images/multi_self_veg_unlabel5_improved_trend_std.jpg>
+Package pdftex.def Info: figures/images/multi_self_veg_unlabel5_improved_trend_std.jpg  used on input line 477.
+(pdftex.def)             Requested size: 116.65625pt x 87.48997pt.
+<figures/images/multi_self_total_unlabel5_final_trend_mean.jpg, id=50, 578.16pt x 433.62pt>
+File: figures/images/multi_self_total_unlabel5_final_trend_mean.jpg Graphic file (type jpg)
+<use figures/images/multi_self_total_unlabel5_final_trend_mean.jpg>
+Package pdftex.def Info: figures/images/multi_self_total_unlabel5_final_trend_mean.jpg  used on input line 483.
+(pdftex.def)             Requested size: 116.65625pt x 87.48997pt.
+<figures/images/multi_self_total_unlabel5_final_trend_std.jpg, id=51, 578.16pt x 433.62pt>
+File: figures/images/multi_self_total_unlabel5_final_trend_std.jpg Graphic file (type jpg)
+<use figures/images/multi_self_total_unlabel5_final_trend_std.jpg>
+Package pdftex.def Info: figures/images/multi_self_total_unlabel5_final_trend_std.jpg  used on input line 488.
+(pdftex.def)             Requested size: 116.65625pt x 87.48997pt.
+<figures/images/multi_self_total_unlabel5_improved_trend_mean.jpg, id=52, 578.16pt x 433.62pt>
+File: figures/images/multi_self_total_unlabel5_improved_trend_mean.jpg Graphic file (type jpg)
+<use figures/images/multi_self_total_unlabel5_improved_trend_mean.jpg>
+Package pdftex.def Info: figures/images/multi_self_total_unlabel5_improved_trend_mean.jpg  used on input line 493.
+(pdftex.def)             Requested size: 116.65625pt x 87.48997pt.
+<figures/images/multi_self_total_unlabel5_improved_trend_std.jpg, id=53, 578.16pt x 433.62pt>
+File: figures/images/multi_self_total_unlabel5_improved_trend_std.jpg Graphic file (type jpg)
+<use figures/images/multi_self_total_unlabel5_improved_trend_std.jpg>
+Package pdftex.def Info: figures/images/multi_self_total_unlabel5_improved_trend_std.jpg  used on input line 498.
+(pdftex.def)             Requested size: 116.65625pt x 87.48997pt.
+
+Overfull \hbox (1.42813pt too wide) in paragraph at lines 462--499
+ [][][][][] 
+ []
+
+
+Overfull \hbox (1.42813pt too wide) in paragraph at lines 462--499
+ [][][][] 
+ []
+
+[8 <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/update_loc.jpg>]
+<figures/images/labelunlabelplot_veg_final_mean.jpg, id=57, 794.97pt x 578.16pt>
+File: figures/images/labelunlabelplot_veg_final_mean.jpg Graphic file (type jpg)
+<use figures/images/labelunlabelplot_veg_final_mean.jpg>
+Package pdftex.def Info: figures/images/labelunlabelplot_veg_final_mean.jpg  used on input line 516.
+(pdftex.def)             Requested size: 116.65625pt x 84.84117pt.
+<figures/images/labelunlabelplot_veg_final_std.jpg, id=58, 794.97pt x 578.16pt>
+File: figures/images/labelunlabelplot_veg_final_std.jpg Graphic file (type jpg)
+<use figures/images/labelunlabelplot_veg_final_std.jpg>
+Package pdftex.def Info: figures/images/labelunlabelplot_veg_final_std.jpg  used on input line 521.
+(pdftex.def)             Requested size: 116.65625pt x 84.84117pt.
+<figures/images/labelunlabelplot_total_final_mean.jpg, id=59, 794.97pt x 578.16pt>
+File: figures/images/labelunlabelplot_total_final_mean.jpg Graphic file (type jpg)
+<use figures/images/labelunlabelplot_total_final_mean.jpg>
+Package pdftex.def Info: figures/images/labelunlabelplot_total_final_mean.jpg  used on input line 527.
+(pdftex.def)             Requested size: 116.65625pt x 84.84117pt.
+<figures/images/labelunlabelplot_total_final_std.jpg, id=60, 794.97pt x 578.16pt>
+File: figures/images/labelunlabelplot_total_final_std.jpg Graphic file (type jpg)
+<use figures/images/labelunlabelplot_total_final_std.jpg>
+Package pdftex.def Info: figures/images/labelunlabelplot_total_final_std.jpg  used on input line 532.
+(pdftex.def)             Requested size: 116.65625pt x 84.84117pt.
+
+Overfull \hbox (9.24998pt too wide) in paragraph at lines 516--533
+ [][][] 
+ []
+
+
+Overfull \hbox (9.24998pt too wide) in paragraph at lines 516--533
+ [][] 
+ []
+
+<figures/images/numberOfPhasesCompareVegImprovedMean_fill.jpg, id=61, 578.16pt x 433.62pt>
+File: figures/images/numberOfPhasesCompareVegImprovedMean_fill.jpg Graphic file (type jpg)
+<use figures/images/numberOfPhasesCompareVegImprovedMean_fill.jpg>
+Package pdftex.def Info: figures/images/numberOfPhasesCompareVegImprovedMean_fill.jpg  used on input line 542.
+(pdftex.def)             Requested size: 233.31252pt x 174.97995pt.
+
+Underfull \vbox (badness 2065) has occurred while \output is active []
+
+
+
+LaTeX Warning: Text page 9 contains only floats.
+
+
+Overfull \vbox (2.7869pt too high) has occurred while \output is active []
+
+ [9 <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/multi_self_veg_unlabel5_final_trend_mean.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/multi_self_veg_unlabel5_final_trend_std.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/multi_self_veg_unlabel5_improved_trend_mean.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/multi_self_veg_unlabel5_improved_trend_std.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/multi_self_total_unlabel5_final_trend_mean.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/multi_self_total_unlabel5_final_trend_std.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/multi_self_total_unlabel5_improved_trend_mean.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/multi_self_total_unlabel5_improved_trend_std.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/labelunlabelplot_veg_final_mean.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/labelunlabelplot_veg_final_std.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/labelunlabelplot_total_final_mean.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/labelunlabelplot_total_final_std.jpg> <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/numberOfPhasesCompareVegImprovedMean_fill.jpg>]
+<figures/images/yearsdiff_compare_multiself_vegimprove_label3unlabel5.jpg, id=65, 578.16pt x 433.62pt>
+File: figures/images/yearsdiff_compare_multiself_vegimprove_label3unlabel5.jpg Graphic file (type jpg)
+<use figures/images/yearsdiff_compare_multiself_vegimprove_label3unlabel5.jpg>
+Package pdftex.def Info: figures/images/yearsdiff_compare_multiself_vegimprove_label3unlabel5.jpg  used on input line 561.
+(pdftex.def)             Requested size: 233.31252pt x 174.97995pt.
+
+Overfull \hbox (25.41153pt too wide) detected at line 570
+\OML/cmm/m/it/9 Diff\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 D[]; D[]; [] ; D[]\OT1/cmr/m/n/9 ) = []([]([] [] \OML/cmm/m/it/9 std\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 x[]; x[]; [] ; x[]\OT1/cmr/m/n/9 )))
+ []
+
+[10 <g:/project/ISPRS/ISPRSguidelines_authors_latex_2020_01_06/figures/images/yearsdiff_compare_multiself_vegimprove_label3unlabel5.jpg>] (g:/project\ISPRS\ISPRSguidelines_authors_latex_2020_01_06\ISPRS.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+)
+Underfull \hbox (badness 5022) in paragraph at lines 592--593
+[]\OT1/ptm/m/n/9.25 Any ad-di-tional sup-port-ing data may be ap-pen-ded,
+ []
+
+[11
+
+] (g:/project\ISPRS\ISPRSguidelines_authors_latex_2020_01_06\ISPRS.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.47496pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6326 strings out of 479799
+ 99502 string characters out of 2886218
+ 425012 words of memory out of 3000000
+ 23169 multiletter control sequences out of 15000+200000
+ 552817 words of font info for 57 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,12n,98p,1951b,574s stack positions out of 5000i,500n,10000p,200000b,50000s
+{F:/MiKTeX/fonts/enc/dvips/base/8r.enc}<F:/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><F:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><F:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><F:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><F:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><F:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><F:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><F:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><F:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><F:/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><F:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><F:/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on g:/project\ISPRS\ISPRSguidelines_authors_latex_2020_01_06\ISPRS.pdf (11 pages, 6845905 bytes).
+PDF statistics:
+ 112 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+
