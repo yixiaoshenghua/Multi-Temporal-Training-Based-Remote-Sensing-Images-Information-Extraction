@@ -1,0 +1,86 @@
+Dear Mr. Wang:
+
+I am sorry to inform you that your manuscript:
+
+A novel multi-training method for time-series urban green cover mapping from multitemporal remote sensing images (TGRS-2021-03975)
+
+has been carefully reviewed by the Editorial Board of the IEEE Transactions on Geoscience and Remote Sensing (TGRS) and has not been recommended for publication.
+
+Below are summary comments from the TGRS Editorial Board for your information.
+
+Thank you for submitting your manuscript to TGRS and I hope that the outcome of this specific submission will not discourage you from submitting other works to TGRS in the future.
+
+Sincerely,
+
+Dr. Simon Yueh
+Editor, IEEE Trans. on Geoscience and Remote Sensing
+
+--
+
+Associate Editor Comments:
+Associate Editor
+Comments to the Author:
+The manuscript has been carefully assessed by two reviewers, who have provided a number of critical and detailed comments which, as can be seen, are against the publication of the research in the journal. Basically, the reviewers found a lack of innovation in the methodology, and insufficient in literature review, comparison, and results validation. The major criticisms from the reviewers are:
+
+1. The innovation and contribution are very limited, compared with the methods in [17].
+2. Some technical terms about machine learning and computer vision are not clearly defined. Some technical details about the research design were not clear.
+3. The literature review is partial. Comparison with previous methods is required.
+
+In view of these comments, I am afraid I have to decline its publication in TGRS. Please refer to the reviewers’ specific comments, which I hope would be useful to improve the manuscript.
+
+--
+
+Reviewers Comments:
+Reviewer: 1
+
+Comments to the Author
+The authors use a co-training approach for the classification of multi-temporal optical remote sensing data when a small amount of labelled data is available. Through an iterative procedure, the main objective is to retrain a classifier on new accurately labelled data. The experiments are carried out on eight Sentinel-2 images collected in China and the approach is compared to self-training and (another?) co-training techniques.
+
+The proposed approach has many links with co-training but never clearly mentioned it. I could even not find significant differences with the algorithm presented in [17] (except on the base classifier, which is a RF model in the manuscript, and an SVM model in [17]), where the proposed approach is a generalization of the previous approaches to k phases. What are the contributions with respect to this previous work?
+Other machine learning and computer vision terms  are used but not clearly defined (or misleading defined). This includes data shift, transfer learning (confused with a specific category of approaches, domain adaptation), transductive learning, and consistency (in time series). The term phase, although highly used, is never clearly defined.
+
+More importantly, the literature review performed on the introduction is partial. For example, many recent works on the classification of multi-temporal data have not been mentioned: use of 1D convolution (e.g., [A]), use of recurrent neural networks (e.g., [B]), use of attention mechanisms [C-D], which are very computationally efficient, and a combination thereof [E-F]. The literature review on transfer learning /domain adaptation for multi-temporal data is also missing the key papers in remote sensing [G] and computer vision [H-I] and is out-of-the-scope for the manuscript, which deals with semi-supervised learning. The description of SSL has also missed the most recent works in computer vision, e.g. FixMatch [J].
+Finally, although the Random Forest algorithm is used in the experiment, the literature review focuses mainly on deep learning techniques. A paragraph on the use of RF for multi-temporal remote sensing data should be added.
+
+Several relevant information on the data is missing: how the Sentinel-2 data have been preprocessed (geometric correction? atmospheric correction? …)? Why not use all the Sentinel-2 spectral bands? Why the resolution of a Sentinel-2 image (8.98 m) does not correspond to a native spatial resolution (10 m / 20 m / 60 m)? How the reference data has been collected to get the label information? What is the definition of a shadow?
+The experimental study is also limited (about 7 km x 6 km). The proposed approach would need to be tested on several bigger geographical areas to highlight its potential.
+
+The code (and the data) has not been made publicly available.
+
+Finally, this is not clear if the experimental design is reliable or not. Although there is a wish to ensure independence between training and testing data, this is not clear how the split is performed. Is it performed independently for each image/phase, meaning that a pixel can belong to the training set for one phase and to the testing set for another phase? Is the split performed at the pixel level or at the object level (as defined in the reference data)?
+There are also no details on how the Random Forest algorithm has been tuned. Moreover, the manual selection of some spectral indices is not assessed (RF is usually able to deal with noisy features).
+Similarly, there is no information about the competitors used in the experiments. For example, self-training and co-training are iterative procedures, which require the tuning of several hyperparameters: (i) a selection metric to decide which labels will be added to the training set, (ii) the number of weakly labelled exemplars added to the training set, and (iii) the base classifier. How has it been ensured that the results might be compared with the proposed approach?
+
+For all these reasons I cannot recommend this manuscript for publication in IEEE Transactions on Geoscience and Remote Sensing. The manuscript requires major editing to include a comprehensive literature review on remote sensing and computer visions; a clear list of contributions; which takes into account the previous work (e.g., [17]), a better presentation of the experimental setting, new experiments on large geographical areas.
+
+
+Other comments:
+•       Most of the Figures need appropriate captions to be understood Fig. 2 could include the actual date for T1, T2, T3, and T4. Fig. 7 needs a legend, Fig 8. Needs legend and captions, etc.)
+•       Section VC. an02145d7
+•       Fig 7 caption. Sentinal-2
+•       Fig. 9. I don’t understand why average F1-Scores are above the scores displayed in Table IV for multi-training and self-training. And what are T1, T2, T3, T4? It is also not clear why the results are not displayed for co-training, which obtains a highest F-Score than self-training.
+•       The title is also misleading as it suggests that a time series of urban green cover maps is produced.
+
+References
+[A] Zhong, Liheng, Lina Hu, and Hang Zhou. "Deep learning based multi-temporal crop classification." Remote sensing of environment 221 (2019): 430-443.
+[B] Rußwurm, M., & Korner, M. (2017). Temporal vegetation modelling using long short-term memory networks for crop identification from medium-resolution multi-spectral satellite images. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (pp. 11-19).
+[C] Rußwurm, M., & Körner, M. (2020). Self-attention for raw optical satellite time series classification. ISPRS Journal of Photogrammetry and Remote Sensing, 169, 421-435.
+[D] Garnot, V. S. F., & Landrieu, L. (2020, September). Lightweight Temporal Self-attention for Classifying Satellite Images Time Series. In International Workshop on Advanced Analytics and Learning on Temporal Data (pp. 171-181). Springer, Cham.
+[E] Rußwurm, M., & Körner, M. (2018). Multi-temporal land cover classification with sequential recurrent encoders. ISPRS International Journal of Geo-Information, 7(4), 129.
+[F] Interdonato, R., Ienco, D., Gaetano, R., & Ose, K. (2019). DuPLO: A DUal view Point deep Learning architecture for time series classificatiOn. ISPRS journal of photogrammetry and remote sensing, 149, 91-104.
+[G] Wang, Z., Zhang, H., He, W., & Zhang, L. (2021). Phenology Alignment Network: A Novel Framework for Cross-Regional Time Series Crop Classification. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2940-2949).
+[H] Purushotham, S., Carvalho, W., Nilanon, T., & Liu, Y. (2016). Variational recurrent adversarial deep domain adaptation.
+[I] Wilson, G., Doppa, J. R., & Cook, D. J. (2020, August). Multi-source deep domain adaptation with weak supervision for time-series sensor data. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 1768-1778).
+[J] Sohn, K., Berthelot, D., Li, C. L., Zhang, Z., Carlini, N., Cubuk, E. D., ... & Raffel, C. (2020). Fixmatch: Simplifying semi-supervised learning with consistency and confidence. arXiv preprint arXiv:2001.07685.
+
+
+Reviewer: 2
+
+Comments to the Author
+In this paper, the authors propose a multi-training method for green growth in RS images. I would suggest submitting the paper to JSTARS as it is more suitable for this type of work. I have the following comments.
+1. Please compare the results to individual classifiers
+2. How do the authors construct the ensemble.
+3. In recent years, other new strategies based on deep learning have been proposed. please review them and compare at against one of these approaches.
+4. what type of features are sued by the authors.
+5. Can the authors use VHR images as an additional example to justify the method.
+6. Please present a sensitivity analysis of the method with respect to its free parameters.
